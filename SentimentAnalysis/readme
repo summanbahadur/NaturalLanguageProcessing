@@ -1,0 +1,7 @@
+Name : Summan Bahadur
+Roll Number : MSDSF21M509
+
+
+web_scrapper_movie_reviews.ipynb   Code for scrapping data from web url
+reviews_annotated.xml  Data file with annotated with IAA Kohan Kappa score
+Reviews_Sentiment_Analysis.ipynb   Notebook file for analysis and applying machine learning for prediction
